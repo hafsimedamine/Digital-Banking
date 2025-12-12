@@ -1,4 +1,4 @@
-# Dijital Banking
+# Digital Banking
 # User Interface and API
 
 ## this is the project presented using screens from the execution
